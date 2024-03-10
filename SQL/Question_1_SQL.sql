@@ -9,7 +9,6 @@ CREATE TABLE runners1 (
     name VARCHAR(255)
 );
 
--- Insert data into the "runners1" table
 INSERT INTO runners1 (id, name) VALUES 
 (1,'John Doe'),
 (2,'Jane Doe'),
