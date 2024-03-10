@@ -34,5 +34,3 @@ class Question1_py:
             print(f'"{key}":', value)
 
 
-# Example usage:
-
